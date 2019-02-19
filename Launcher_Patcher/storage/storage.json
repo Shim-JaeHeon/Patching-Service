@@ -2,6 +2,6 @@
   "info": "Xvision Patcher",
   "isInstalled": true,
   "version": "1.0.0",
-  "updateVersion": "001",
+  "updateVersion": 1,
   "installFolder": "C://TestDownload/WFP"
 }
